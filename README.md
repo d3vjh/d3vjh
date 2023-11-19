@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 <h3 align="center">A beginner developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Habitability Building](https://github.com/d3vjh/HabitabilityBuilding/wiki)
+- 🔭 I’m currently working on [32 - bits Processor System ](https://github.com/d3vjh/32-bitProcessorSystem)
 
 - 🌱 I’m currently learning **Bash Scripting**
 
