@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
-<h3 align="center">A beginner developer from Francisco José de Caldas District University</h3>
+<h3 align="center">Junior Cybersecurity Engineer | Vulnerability Analyst | CTF Player</h3>
 
-- 🔭 I’m currently working on [32 - bits Processor System ](https://github.com/d3vjh/32-bitProcessorSystem)
-
-- 🌱 I’m currently learning **Bash Scripting**
+- 🔭 I'm currently working at **Axity** as a **Mitigation and Zero Days Analyst** for the Bancolombia group
+- 🛡️ My role includes:
+  - Creating vulnerability reports and baselines for various operating systems
+  - Providing risk analysis and vulnerability mitigation advice
+  - Administering the Tenable & Nessus platform
+- 🌱 I'm currently learning **Advanced Vulnerability Assessment Techniques**
+- 🎓 Systems Engineering Student at Francisco José de Caldas District University
+- 🤝 Member of IEEE & ACM
+- 💻 Previously worked on [32-bit Processor System](https://github.com/d3vjh/32-bitProcessorSystem)
 ---
 ###
 
@@ -12,40 +18,44 @@
 ###
 
 <div align="left">
+  <a href="https://www.tenable.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/331601/tenable.svg" height="34" alt="<tenable logo" />
+  </a>
+    &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
+    <img src="https://skillicons.dev/icons?i=bash" height="33" alt="bash logo" />
   </a>
   <img width="12" />
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo" />
+    <img src="https://skillicons.dev/icons?i=powershell" height="33" alt="powershell logo" />
   </a>
   <img width="12" />
   <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+    <img src="https://skillicons.dev/icons?i=py" height="33" alt="python logo" />
   </a>
   <img width="12" />
   <a href="https://aws.amazon.com/documentation/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo" />
+    <img src="https://skillicons.dev/icons?i=aws" height="33" alt="amazonwebservices logo" />
   </a>
   <img width="12" />
-  <a href="https://docs.oracle.com/en/java/">
-    <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <a href="https://portswigger.net/burp">
+    <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" height="30" alt="BurpSuite" />
   </a>
   <img width="12" />
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <a href="https://nmap.org" target="_blank">
+    <img src="https://nmap.org/images/sitelogo-nmap.svg" height="25" alt="Nmap logo" />
   </a>
   <img width="12" />
-  <a href="https://www.linux.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
+  <a href="https://www.wireshark.org" target="_blank">
+    <img src="https://gitlab.com/parrotsec/project/graphics/-/raw/master/logo/parrotsec-logo.png" height="30" alt="Parrot OS logo" />
   </a>
   <img width="12" />
   <a href="https://neovim.io/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo" />
   </a>
   <img width="12" />
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
+  <a href="https://www.wireshark.org" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/6233056?s=200&v=4" height="30" alt="Wireshark logo" />
   </a>
 </div>
 
@@ -84,8 +94,8 @@
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3vjh&radius=16&theme=nord&area=true&order=5&hide_title=true&hide_border=true&custom_title=Activity" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vjh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="179" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3vjh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="179" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=d3vjh&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d3vjh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="160" alt="languages graph"  />
 
 </div>
 
